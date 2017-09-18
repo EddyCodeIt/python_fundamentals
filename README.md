@@ -23,3 +23,8 @@ Write a program that prints the current time and date to the console.
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/current_time.py)
 
+## 3. Fizz Buzz 
+
+Write a program that prints the numbers from 1 to 100, except for the following conditions. For multiples of three print “Fizz” instead of the number, and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+[Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/fizzbuzz.py)
