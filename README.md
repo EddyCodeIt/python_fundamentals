@@ -17,3 +17,9 @@ Write a program that prints “Hello, world!” to the screen.
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/hello_world.py)
 
+## 2. Current Time
+
+Write a program that prints the current time and date to the console.
+
+[Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/current_time.py)
+
