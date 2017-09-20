@@ -34,3 +34,9 @@ Write a program that prints the numbers from 1 to 100, except for the following 
 Write a function that calculates the sum of the digits of the factorial of a number. n! means n x (n − 1) … x 3 x 2 x 1. For example, 10! = 10 x 9 x … x 3 x 2 x 1 = 3628800, and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27. Find the sum of the digits in the number 100!
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/factorial_digit_sum_func.py)
+
+## 5. Guessing game
+
+Write a guessing game where the user must guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
+
+[Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/guessing_game.py)
