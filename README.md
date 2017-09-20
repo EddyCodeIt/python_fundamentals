@@ -40,3 +40,9 @@ Write a function that calculates the sum of the digits of the factorial of a num
 Write a guessing game where the user must guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/guessing_game.py)
+
+## 6. Largest and smallest in list
+
+Write a function that returns the largest and smallest elements in a list.
+
+[Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/min_max_in_list.py)
