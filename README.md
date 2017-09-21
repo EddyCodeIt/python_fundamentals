@@ -52,3 +52,9 @@ Write a function that returns the largest and smallest elements in a list.
 Write a function that tests whether a string is a palindrome. Palindrome string considered to be a sequence of characters that can be read the same from both left and right. For example: 'asddsa' or 'asdfdsa'.
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/palindrome_test.py)
+
+## 8. Merge list and sort
+
+Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2,3,5] → [1,2,3,4,5,6].
+
+[Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/merge_and_sort_lists.py)
