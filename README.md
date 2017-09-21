@@ -46,3 +46,9 @@ Write a guessing game where the user must guess a secret number. After every gue
 Write a function that returns the largest and smallest elements in a list.
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/min_max_in_list.py)
+
+## 7. Palindrome test
+
+Write a function that tests whether a string is a palindrome. Palindrome string considered to be a sequence of characters that can be read the same from both left and right. For example: 'asddsa' or 'asdfdsa'.
+
+[Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/palindrome_test.py)

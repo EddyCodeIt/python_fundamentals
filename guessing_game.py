@@ -12,7 +12,7 @@ def guessing_game(range):
 
     numOfGuesses = 0 # start of a game
 
-    print(guessIt)
+    print("(For sTesting)Number to be guessed: " + str(guessIt))
     prevGuess = range + 1 # add one just to get outside a range of guessing nums, 
                           # so that it would be possible to initialize variable and avoid a 0 bug
                           # since it's included in a guessing range.
