@@ -58,3 +58,12 @@ Write a function that tests whether a string is a palindrome. Palindrome string 
 Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2,3,5] → [1,2,3,4,5,6].
 
 [Solution](https://github.com/EddyCodeIt/python_fundamentals/blob/master/merge_and_sort_lists.py)
+
+## 9. 9. Newton’s method for square roots
+
+Implement the square root function using Newton’s method. In this case, Newton’s method is to approximate sqrt(x) by picking a starting point z and then repeating:
+
+`z_next = z - ((z*z - x) / (2 * z))`
+
+## 10. Reverse string
+Write a function to reverse a string.
