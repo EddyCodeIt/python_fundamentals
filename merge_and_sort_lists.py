@@ -11,6 +11,14 @@ def merge_lists(list1, list2):
     for item in list2:
         list3.append(item) # repeat same with list2
 
-    return list3 # return unsorted list
+    return sorted(list3) # return unsorted list
+
+# define a function that sorts a list
+# deligate this task to sorted() function, that is already implemented in python
+def sort_list(unsorted_list):
+    return sorted(unsorted_list)
+
+# you can right your own sorting algorithm functions
+# http://python3.codes/popular-sorting-algorithms/
 
 print(merge_lists(list1, list2)) # run function and print returned merged list
